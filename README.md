@@ -17,4 +17,4 @@ git clone https://github.com/busenurk/spd_norway.git
 3. Ensure all required packages are installed before running the scripts.
 
 ## Citation
-If you use this code, please cite the article: "Potential Factors for Somatoform Pain Disorder in Trauma-Exposed Populations with Immigrant Backgrounds" (Add DOI or publication link if available).
+If you use this code, please cite the article: "Potential Factors for Somatoform Pain Disorder in Trauma-Exposed Populations with Immigrant Backgrounds" (_DOI or publication link will be added._).
