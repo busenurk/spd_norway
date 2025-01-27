@@ -8,6 +8,8 @@ This repository contains the R scripts used for the analysis presented in the ar
 
 **2_Models.R:** Script for building and evaluating statistical models used in the analysis.
 
+<br>
+
 ## How to Use
 1. Clone this repository:
 
@@ -17,6 +19,8 @@ git clone https://github.com/busenurk/spd_norway.git
 2. Open the scripts in RStudio or your preferred R environment.
 
 3. Ensure all required packages are installed before running the scripts.
+
+<br>
 
 ## Citation
 If you use this code, please cite the article: "Potential Factors for Somatoform Pain Disorder in Trauma-Exposed Populations with Immigrant Backgrounds" (_DOI or publication link will be added._).
