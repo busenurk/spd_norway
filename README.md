@@ -9,12 +9,8 @@ This repository contains the R scripts used for the analysis presented in the ar
 ## How to Use
 1. Clone this repository:
 
-``` r
-bash
-Copy
-Edit
-git clone [https://github.com/busenurk/spd_norway.git](https://github.com/busenurk/spd_norway.git)
-```
+```bash
+git clone https://github.com/busenurk/spd_norway.git
 
 2. Open the scripts in RStudio or your preferred R environment.
 
