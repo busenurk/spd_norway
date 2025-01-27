@@ -2,9 +2,9 @@
 This repository contains the R scripts used for the analysis presented in the article "Potential Factors for Somatoform Pain Disorder in Trauma-Exposed Populations with Immigrant Backgrounds". The scripts are organized to facilitate reproducibility and understanding of the statistical procedures used in the study.
 
 ### Repository Structure
-descriptives.R: Script for generating descriptive statistics and initial data exploration.
+1_descriptives.R: Script for generating descriptive statistics and initial data exploration.
 
-models.R: Script for building and evaluating statistical models used in the analysis.
+2_models.R: Script for building and evaluating statistical models used in the analysis.
 
 ## How to Use
 1. Clone this repository:
