@@ -11,7 +11,7 @@ This repository contains the R scripts used for the analysis presented in the ar
 
 ```bash
 git clone https://github.com/busenurk/spd_norway.git
-
+```
 2. Open the scripts in RStudio or your preferred R environment.
 
 3. Ensure all required packages are installed before running the scripts.
