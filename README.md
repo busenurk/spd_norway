@@ -1,4 +1,4 @@
-## Potential Factors for Somatoform Pain Disorder in Trauma-Exposed Populations with Immigrant Backgrounds
+## Unemployment and Anxiety explaining Somatoform Pain Disorder in Trauma-Exposed Patient with Immigrant Backgrounds 
 This repository contains the R scripts used for the analysis presented in the article "Potential Factors for Somatoform Pain Disorder in Trauma-Exposed Populations with Immigrant Backgrounds". The scripts are organized to facilitate reproducibility and understanding of the statistical procedures used in the study.
 
 <br>
